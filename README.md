@@ -76,7 +76,7 @@ git clone https://github.com/m4rrec0s/teste-frontend-v4/tree/teste/marcos-henriq
 Navegue até o diretório do projeto:
 
 ```sh
-cd teste-frontend-v4
+cd TrackEquip
 ```
 
 Instale as dependências:
