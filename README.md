@@ -70,7 +70,7 @@ O projeto conta com uma interface responsiva para todos os tipos de telas, se ad
 Clone o repositório:
 
 ```sh
-git clone https://github.com/m4rrec0s/teste-frontend-v4/tree/teste/marcos-henrique-araujo
+git clone https://github.com/m4rrec0s/TrackEquip.git
 ```
 
 Navegue até o diretório do projeto:
